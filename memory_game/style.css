@@ -68,6 +68,9 @@ footer {
 	letter-spacing: 0.8em;
 	font-weight: 500;
 }
+nav a {
+	border-bottom: 2px solid transparent;
+}
 .copyright{
 	font-family: "Raleway", sans-serif;
 	float: left;
